@@ -1,3 +1,3 @@
-permalink: /exercises/:title
+permalink: exercises/:title
 url: http://johnjullies.site/vimercises/
 exclude: '*.haml'
